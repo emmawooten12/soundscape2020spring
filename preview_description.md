@@ -18,3 +18,7 @@ Current questions I have are:
 How am I going to portray these conversations?
 Am I going to have to ask people to take part, or can I genuinely use nuances to insinuate these conversations took place?
 How can I incorporate my own sounds into this piece?
+
+
+Links to sounds I have so far:
+[ Heartbeat ](http://soundbible.com/1001-Heartbeat.html), [ child coughing ](https://freesound.org/people/goldkelchen/sounds/371360/), [ doctor waiting room ](https://freesound.org/people/BeeProductive/sounds/430047/), [ surgery ](https://freesound.org/people/sindhu.tms/sounds/169065/), and [ bell ringing ](https://freesound.org/people/bdunis4/sounds/271451/)
