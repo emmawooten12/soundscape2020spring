@@ -1,7 +1,7 @@
 In this preview, I am showing the opening of my audio narrative.  It features a human heartbeat, a child coughing, and the 
 beginning of a phone call. The rest of the sounds are files that will be used later in the narrative, such as the sounds 
 coming from the hospital waiting room and doctor's offices. This narrative's goal is to portray what it would be like for a 
-family to find out their child has been diagnosed with cancer, and all of the ins and outs of that process.I want to focus 
+family to find out their child has been diagnosed with cancer, and all of the ins and outs of that process. I want to focus 
 on the emotions surrounding this entire process and will attempt to really elicit that sympathetic and sad reaction from the 
 audience. The idea came from my conenction with The Children's Hospital of Pittsburgh. I am heavily involved with Pitt Dance 
 Marathon, and have developed a very good relationship with some of the families with children that have been in this hospital 
