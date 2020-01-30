@@ -4,7 +4,7 @@
 
 This final piece shows the battle a family faces when a child finds out they have a life-threatening illness like cancer. 
 As I said before,  want to focus on the emotions surrounding this entire process and will attempt to really elicit that 
-sympathetic and sad reaction from the audience. The idea came from my conenction with The Children's Hospital of Pittsburgh. 
+sympathetic and sad reaction from the audience. The idea came from my connection with The Children's Hospital of Pittsburgh. 
 I have been given the incredible opportunity to meet and develop very good relationships with some of the families with 
 children that have been in this hospital since they were born. I am constantly being inspired by their resilience and care 
 with their children, and want to give a little insight into what this experience is like for families. 
