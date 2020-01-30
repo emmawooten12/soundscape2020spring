@@ -1,20 +1,20 @@
 # **Reflection Page**
 
-#### *This is just a description of the final piece and some comments I have about my piece.*
-
-This final piece shows the battle a family faces when a child finds out they have a life-threatening illness like cancer. 
-As I said before,  want to focus on the emotions surrounding this entire process and will attempt to really elicit that 
-sympathetic and sad reaction from the audience. The idea came from my conenction with The Children's Hospital of Pittsburgh. 
-I have been given the incredible opportunity to meet and develop very good relationships with some of the families with 
-children that have been in this hospital since they were born. I am constantly being inspired by their resilience and care 
-with their children, and want to give a little insight into what this experience is like for families. 
+This final piece shows the battle a family faces when a child finds out they have a life-threatening illness like cancer. I wanted to focus on the emotions surrounding this entire process and will attempt to really elicit that sympathetic and sad reaction from the audience. The idea came from my connection with The Children's Hospital of Pittsburgh. I have been given the incredible opportunity to meet and develop very good relationships with some of the families with children that have been in this hospital since they were born. I am constantly being inspired by their resilience and care with their children and want to give a little insight into what this experience is like for families.
 
 This piece is my tribute to them.
 
-This project layout changed, because I wanted to show that these families go through a very similar process almost daily, with
-doctor's appointments, trips to the hospital, surgeries, and treatments.  I decided to title the piece *Ringing the Bell* as a
-foreshadowing of the very end where the patient gets to ring the cancer free bell.
+I originally wanted to portray the whole day of Pitt Dance Marathon last year but decided that might be too complicated. I don’t think I could do that idea justice. Instead, I wanted to build off of the cause connection for PDM.  I think I hit all of the baseline criteria: the piece plays for almost 3 minutes, has more than one original and more than one sourced sound file, and has at least 3 overlapping tracks multiple times.  It also changes drastically from beginning to end, is a playable .mp3 file, and I met all the deadlines and requirements for the project.  As for aspirational criteria, I definitely was able to hit some of these as well: I used relative volume and other effects (including left/right pan) to indicate distance, all speech used/recorded is clear, and have a clear organizational scheme to articulate. I also can show my audience interpretation matches what I intended (see feedback notecards below), I overlapped many sounds, created a sad emotional message, and used Audacity effects that were new to me (especially the envelope tool, but then again, the whole software application is new to me).
 
-I think I have some editing to do on this, including transitions between sounds, tempos of certain files, and possibly the 
-general editing of the entire file. I think considering this is my first time using Audacity, I did a pretty decent job, but 
-could definitely use extra practice. Overall, though, I am proud of how this project turned out.
+This project layout changed, because I wanted to show that these families go through a very similar process almost daily, with doctor's appointments, trips to the hospital, surgeries, and treatments. I decided to title the piece Ringing the Bell as a foreshadowing of the very end where the patient gets to ring the cancer free bell.  For example, in this screenshot, you can see a few repetitions of the everyday routine driving to and from the hospital:
+<img width="1440" alt="Screen Shot 2020-01-30 at 3 27 42 PM" src="https://user-images.githubusercontent.com/59624297/73492194-360d4100-437e-11ea-889e-740b4381744e.png">
+I made an effort to create enough repeating sounds that the listener can picture exactly what is happening when it is happening.  The cool thing about this project, however, is that it is also up for interpretation.  When listeners hear a certain sound like a car starting, in their own minds, they have a different idea of what kind of car that is, and where they are when they’re entering the car.  I hope for it to be that way, because that makes it somewhat more personal to the listener. 
+
+As for feedback, I have below the 3 notecards I received from peers reviewing my work:
+![IMG_0627](https://user-images.githubusercontent.com/59624297/73492643-1aef0100-437f-11ea-87d0-258dbae8bb4c.jpeg)
+Here, you can see the emotional aspect was portrayed correctly.  As for feedback I used, the first notecard suggests I use left/right pan to indicate some sort of distance.  I thought this was a great idea, so shown below is where I decided to add that effect:
+<img width="1438" alt="Screen Shot 2020-01-30 at 4 26 48 PM" src="https://user-images.githubusercontent.com/59624297/73492677-2c380d80-437f-11ea-8b30-53b921a322e3.png">
+I chose these sounds to use right and left pan as a way to imply location.  A listener can picture hearing the heartbeat through a stethoscope, and then the child coughing comes from the other side of the listener.  I thought this was a good idea, so I am interested to see if others do too.
+
+Overall, this was my first time using Audacity, so I think I did a pretty good job.
+

@@ -7,3 +7,5 @@ This narrative's goal is to portray what it would be like for a family to find o
 I will be recording all of the conversations that go on in this narrative, as well as some every day noises like a car starting and a phone ringing. I will be sourcing from free audio file sites, and just using my phone, headphones, and laptop mics to record.
 
 Most of the sourced files will come from freesound.org.
+
+[ Transcript ](https://github.com/emmawooten12/soundscape2020spring/blob/master/TRANSCRIPT.md)
